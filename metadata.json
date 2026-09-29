@@ -1,0 +1,6 @@
+{
+  "name": "AirSentinel AI – Urban Air Quality & Pollution Alert System",
+  "description": "Smart urban air-quality monitoring, hotspot detection, weather risk analysis, and real-time pollution alert system for Tamil Nadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
